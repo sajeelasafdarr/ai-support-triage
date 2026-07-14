@@ -1,10 +1,12 @@
 # 🤖 AI Support Triage System
 
-**An AI-Powered Customer Support Triage Pipeline** — built with Make.com, Groq (Llama 3.3), Zoho Desk, Gmail, and Slack.
+**An AI-powered customer support triage pipeline** — built with Make.com, Groq (Llama 3.3), Zoho Desk, Gmail, and Slack.
 
 Support requests come in via a webhook, get classified by AI for category, priority, and sentiment, and are automatically routed — with instant replies for simple questions, Slack alerts + Zoho tickets for urgent issues, and standard tickets for everything else. No manual triage required.
 
-🔗 **[Live Form](https://tally.so/forms/7ReedR)** · **[Demo Video (Loom)](https://www.loom.com/share/7ff7776e870d4449962edf9a15cbae03)** · **[GitHub](https://github.com/sajeelasafdarr/ai-support-triage)**
+🔗 **[Live Form](https://tally.so/forms/7ReedR)** · **[GitHub](https://github.com/sajeelasafdarr/ai-support-triage)**
+
+🎥 **Demos:** [Auto-Reply Flow](https://www.loom.com/share/7ff7776e870d4449962edf9a15cbae03) · [Urgent Escalation Flow (Billing)](https://www.loom.com/share/0b213e087c4e4492a9970a73f7b4f3af)
 
 ---
 
@@ -144,7 +146,8 @@ Desk → Retry    → Gmail → Retry → Retry
 ## 🔗 Links
 
 - **Tally Form:** [tally.so/forms/7ReedR](https://tally.so/forms/7ReedR)
-- **Demo Video:** [Loom walkthrough](https://www.loom.com/share/7ff7776e870d4449962edf9a15cbae03)
+- **Demo (Auto-Reply Flow):** [Loom video](https://www.loom.com/share/7ff7776e870d4449962edf9a15cbae03)
+- **Demo (Urgent Escalation, Billing):** [Loom video](https://www.loom.com/share/0b213e087c4e4492a9970a73f7b4f3af)
 - **GitHub Repo:** [github.com/sajeelasafdarr/ai-support-triage](https://github.com/sajeelasafdarr/ai-support-triage)
 
 ---
